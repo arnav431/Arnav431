@@ -5,7 +5,6 @@
 ---
 
 ## 🚀 Currently Working On
-
 AI-powered and security-focused projects, including:
 - Cybersecurity tools
 - AI chatbots
