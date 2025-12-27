@@ -1,5 +1,49 @@
-# About Me:
-Hi, I’m Arnav Khajuria<br><br>A B.Tech CSE student with a Minor in Cyber Security, passionate about AI, security, and building practical tech.<br><br>🚀 I’m currently working on<br>AI-powered and security-focused projects, including cybersecurity tools, AI chatbots, socket-based systems, and some responsive web application.<br><br>🤝 I’m looking to collaborate on<br>Open-source projects, AI/ML applications, cybersecurity tools, automation systems, and innovative student-led tech initiatives.<br><br>🛠 I’m looking for help with<br>Advanced machine learning concepts, real-world cybersecurity implementations, and scaling AI systems securely.<br><br>📚 I’m currently learning<br>Machine Learning, Deep Learning, Cyber Security practices, Quantum computing concepts, and secure system design.<br><br>💬 Ask me about<br>Python, AI & ML basics, cybersecurity fundamentals, networking, project building, GitHub workflows, and student tech communities (ACM).<br><br>⚡ Fun fact:<br>I enjoy making machines learn from data—and breaking systems just to understand how to secure them better 😄
+# Hi, I'm Arnav Khajuria 👋
+
+**B.Tech CSE student** with a Minor in Cyber Security, passionate about AI, security, and building practical tech.
+
+---
+
+## 🚀 Currently Working On
+
+AI-powered and security-focused projects, including:
+- Cybersecurity tools
+- AI chatbots
+- Socket-based systems
+- Responsive web applications
+
+## 🤝 Open to Collaborate On
+
+- Open-source projects
+- AI/ML applications
+- Cybersecurity tools
+- Automation systems
+- Innovative student-led tech initiatives
+
+## 🛠 Looking for Help With
+
+- Advanced machine learning concepts
+- Real-world cybersecurity implementations
+- Scaling AI systems securely
+
+## 📚 Currently Learning
+
+- Machine Learning & Deep Learning
+- Cyber Security practices
+- Quantum computing concepts
+- Secure system design
+
+## 💬 Ask Me About
+
+Python • AI & ML basics • Cybersecurity fundamentals • Networking • Project building • GitHub workflows • Student tech communities (ACM)
+
+## ⚡ Fun Fact
+
+I enjoy making machines learn from data—and breaking systems just to understand how to secure them better 😄
+
+---
+
+*Let's connect and build something amazing together!*
 
 
 ## 🌐 Socials:
