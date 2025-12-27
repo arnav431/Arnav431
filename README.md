@@ -113,7 +113,7 @@ I'm always interested in collaborating on innovative projects, especially those 
 
 Feel free to reach out if you want to discuss tech, collaborate on projects, or just chat about breaking and securing systems!
 
----
+
 
 <div align="center">
 
