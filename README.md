@@ -46,6 +46,7 @@ I'm a Computer Science student specializing in AI and Cybersecurity, building in
 
 
 ## 🌐 Find me on
+--
 <p align="center">
 <a href="https://linkedin.com/in/arnavkhajuria/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
 <a href="https://instagram.com/arnav.khajuria_1/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
@@ -61,9 +62,8 @@ I'm a Computer Science student specializing in AI and Cybersecurity, building in
 <br></br>
 
 ## 🏆 GitHub Statistics
-
+--
 <div align="center">
-
 ![](https://github-readme-stats.vercel.app/api?username=Arnav431&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Arnav431&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav431&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
@@ -71,7 +71,7 @@ I'm a Computer Science student specializing in AI and Cybersecurity, building in
 
 <br/><br/>
 ## 💬 Let's Connect!
-
+--
 I'm always interested in collaborating on innovative projects, especially those involving:
 - 🤖 AI/ML applications
 - 🔒 Cybersecurity solutions
