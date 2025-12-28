@@ -23,14 +23,14 @@ I'm a passionate Computer Science student specializing in AI and Cybersecurity. 
 </p>
 
 <p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=gcp,vercel,nginx,mongodb,mysql,firebase,figma,blender" />
-  </a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Pandas-Dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Pandas-Light.svg">
     <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Pandas-Dark.svg" alt="Pandas" width="48" height="48"/>
   </picture>
+  <a>
+    <img src="https://skillicons.dev/icons?i=gcp,vercel,nginx,mongodb,mysql,firebase,figma,blender" />
+  </a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Render-Dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Render-Light.svg">
