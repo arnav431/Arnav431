@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/greeter.gif" width="40" height="40" /> Hi, I'm Arnav Khajuria
+### Hi, I'm Arnav Khajuria <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/greeter.gif" width="40" height="40" />
 
 ---
 
