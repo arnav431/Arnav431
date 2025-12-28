@@ -18,7 +18,11 @@
 <a href="mailto:arnavkhajuria431@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=Arnav431)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=Arnav431&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
+    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=Arnav431&label=Profile%20Views&color=1f2937&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=Arnav431&label=Profile%20Views&color=1f2937&style=for-the-badge" alt="Profile Views" />
+</picture>
 
 </div>
 
