@@ -6,7 +6,6 @@ I'm a Computer Science student specializing in AI and Cybersecurity, building in
 - 🌱 Exploring Machine Learning, Quantum Computing & Secure Systems
 - 🤝 Open to collaborations & open-source projects
 - 💡 ACM student chapter member | Fun fact: I break systems to secure them 😄
-<br></br>
 
 ## 🛠️ Things I code with
 
@@ -58,7 +57,7 @@ I'm a Computer Science student specializing in AI and Cybersecurity, building in
 </a>
 <a href="mailto:arnavkhajuria431@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
 </p>
-<br></br>
+
 
 ## 🏆 GitHub Statistics
 
@@ -69,7 +68,6 @@ I'm a Computer Science student specializing in AI and Cybersecurity, building in
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav431&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
----
 
 ## 💬 Let's Connect!
 
