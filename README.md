@@ -9,7 +9,6 @@ I'm a passionate Computer Science student specializing in AI and Cybersecurity. 
 - 💡 Active member of ACM student chapter
 - ⚡ Fun fact: I break systems to understand how to secure them better 😄
 
-<br/><br/>
 
 
 <p align="center">
