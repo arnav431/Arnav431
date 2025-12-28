@@ -18,8 +18,9 @@
 <a href="mailto:arnavkhajuria431@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
 </p>
 
-| 👁️ Profile Views || **1234** |
-|------------------|
+| 👁️ Profile Views | **1234** |
+|------------------|----------|
+
 
 
 
