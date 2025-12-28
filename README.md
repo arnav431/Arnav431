@@ -10,6 +10,8 @@ I'm a passionate Computer Science student specializing in AI and Cybersecurity. 
 - ⚡ Fun fact: I break systems to understand how to secure them better 😄
 
 
+
+
 <p align="center">
 <a href="https://linkedin.com/in/arnavkhajuria/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
 <a href="https://instagram.com/arnav.khajuria_1/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
@@ -22,6 +24,9 @@ I'm a passionate Computer Science student specializing in AI and Cybersecurity. 
 </a>
 <a href="mailto:arnavkhajuria431@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
 </p>
+
+
+
 
 
 ## 🛠️ Things I code with
@@ -58,6 +63,9 @@ I'm a passionate Computer Science student specializing in AI and Cybersecurity. 
   </picture>
   <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Canva.svg" alt="Canva" width="48" height="48"/>
 </p>
+
+
+
 
 
 ## 🏆 GitHub Statistics
