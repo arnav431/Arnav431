@@ -50,7 +50,9 @@ current_projects = {
 
 ### 🤖 Machine Learning & AI
 <p align="left">
-  [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+  </a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/NumPy-Dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/NumPy-Light.svg">
@@ -65,7 +67,9 @@ current_projects = {
 
 ### ☁️ Cloud & Deployment
 <p align="left">
-  [![My Skills](https://skillicons.dev/icons?i=gcp,vercel,nginx)](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gcp,vercel,nginx" />
+  </a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Render-Dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Render-Light.svg">
@@ -79,17 +83,15 @@ current_projects = {
 </p>
 
 ### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,firebase)](https://skillicons.dev)
 
 ### 🎨 Design Tools
 <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,blender" />
+  </a>
   <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Canva.svg" alt="Canva" width="48" height="48"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="48"/>
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" height="48"/>
 </p>
-
 ---
 
 ## 📊 GitHub Statistics
