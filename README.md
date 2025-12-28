@@ -44,8 +44,8 @@ I'm a Computer Science student specializing in AI and Cybersecurity, building in
 </p>
 
 
-## 🌐 Socials
-<p align="left">
+## 🌐 Find me on
+<p align="center">
 <a href="https://linkedin.com/in/arnavkhajuria/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
 <a href="https://instagram.com/arnav.khajuria_1/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
 <picture>
