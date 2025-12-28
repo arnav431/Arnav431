@@ -1,5 +1,4 @@
 # <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/greeter.gif" width="30" height="30" /> Hey! Nice to see you.
----
 
 
 I'm a Computer Science student specializing in Cybersecurity, building intelligent and secure systems.
