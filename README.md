@@ -45,7 +45,7 @@ I'm a passionate Computer Science student specializing in AI and Cybersecurity. 
 </p>
 
 
-## 📊 GitHub Statistics
+## 🏆 GitHub Statistics
 
 <div align="center">
 
@@ -55,15 +55,20 @@ I'm a passionate Computer Science student specializing in AI and Cybersecurity. 
 </div>
 
 
-## 🏆 Top Contributed Repositories
-<div align="center">
-    
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=Arnav431&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
-
 ## 💬 Let's Connect!
+
+<p align="left">
+<a href="https://linkedin.com/in/arnavkhajuria/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+<a href="https://instagram.com/arnav.khajuria_1/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/X-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/X-Light.svg">
+    <a href="https://x.com/ArnavKhajuria_1">
+    <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/X-Dark.svg" alt="X" width="48" height="48"/>
+</picture>
+</a>
+<a href="mailto:arnavkhajuria431@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
+</p>
 
 I'm always interested in collaborating on innovative projects, especially those involving:
 - 🤖 AI/ML applications
@@ -72,6 +77,7 @@ I'm always interested in collaborating on innovative projects, especially those 
 - 🚀 Automation and scalability
 
 Feel free to reach out if you want to discuss tech, collaborate on projects, or just chat about breaking and securing systems!
+
 
 
 
