@@ -10,7 +10,7 @@ I'm a Computer Science student specializing in AI and Cybersecurity, building in
 <br></br>
 
 ## 🛠️ Things I code with
-
+--
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=py,c,cpp,js,java,r,bash,html,css,tailwind,fastapi,flask,pytorch,tensorflow" />
