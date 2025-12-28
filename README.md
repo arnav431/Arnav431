@@ -49,7 +49,9 @@ I'm a Computer Science student specializing in Cybersecurity, building intellige
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/X-Dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/X-Light.svg">
-    <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/X-Dark.svg" alt="X" width="48" height="48" href="https://x.com/ArnavKhajuria_1"/>
+    <a href="https://x.com/ArnavKhajuria_1">
+      <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/X-Dark.svg" alt="X" width="48" height="48" />
+    </a>
 </picture>
 </a>
 <a href="mailto:arnavkhajuria431@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
