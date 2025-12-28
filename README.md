@@ -42,12 +42,9 @@ current_projects = {
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,java,r,bash)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,fastapi,flask)](https://skillicons.dev)
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,java,r,bash,html,css,tailwind,fastapi,flask,pytorch,tensorflow" />
   </a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/NumPy-Dark.svg">
@@ -63,7 +60,7 @@ current_projects = {
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gcp,vercel,nginx" />
+    <img src="https://skillicons.dev/icons?i=gcp,vercel,nginx,mongodb,mysql,firebase,figma,blender" />
   </a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Render-Dark.svg">
@@ -75,14 +72,6 @@ current_projects = {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Gunicorn-Light.svg">
     <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Gunicorn-Dark.svg" alt="Gunicorn" width="48" height="48"/>
   </picture>
-</p>
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,firebase)](https://skillicons.dev)
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,blender" />
-  </a>
   <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Canva.svg" alt="Canva" width="48" height="48"/>
 </p>
 ---
