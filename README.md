@@ -42,7 +42,7 @@ current_projects = {
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cpp,js,java,r,bash,html,css,tailwind,fastapi,flask,pytorch,tensorflow" />
   </a>
@@ -74,6 +74,7 @@ current_projects = {
   </picture>
   <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Canva.svg" alt="Canva" width="48" height="48"/>
 </p>
+
 ---
 
 ## 📊 GitHub Statistics
