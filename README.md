@@ -51,7 +51,7 @@ current_projects = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=py,cpp,js,java,r,bash,html,css,tailwind,fastapi,flask,pytorch,tensorflow" />
   </a>
   <picture>
@@ -67,7 +67,7 @@ current_projects = {
 </p>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a>
     <img src="https://skillicons.dev/icons?i=gcp,vercel,nginx,mongodb,mysql,firebase,figma,blender" />
   </a>
   <picture>
