@@ -9,7 +9,6 @@ I'm a passionate Computer Science student specializing in AI and Cybersecurity. 
 - 💡 Active member of ACM student chapter
 - ⚡ Fun fact: I break systems to understand how to secure them better 😄
 
----
 
 ## 💼 What I'm Working On
 
@@ -20,8 +19,6 @@ current_projects = {
     "Development": ["Socket-based Systems", "Web Applications", "Automation Tools"]
 }
 ```
-
----
 
 ## 🛠️ Tech Stack
 
@@ -58,7 +55,6 @@ current_projects = {
   <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Canva.svg" alt="Canva" width="48" height="48"/>
 </p>
 
----
 
 ## 📊 GitHub Statistics
 
@@ -69,7 +65,6 @@ current_projects = {
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav431&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
----
 
 ## 🏆 Top Contributed Repositories
 <div align="center">
@@ -78,7 +73,6 @@ current_projects = {
 
 </div>
 
----
 
 ## 💬 Let's Connect!
 
