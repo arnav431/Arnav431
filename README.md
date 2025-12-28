@@ -6,6 +6,7 @@ I'm a Computer Science student specializing in AI and Cybersecurity, building in
 - 🌱 Exploring Machine Learning, Quantum Computing & Secure Systems
 - 🤝 Open to collaborations & open-source projects
 - 💡 ACM student chapter member | Fun fact: I break systems to secure them 😄
+<br></br>
 
 ## 🛠️ Things I code with
 
@@ -42,9 +43,9 @@ I'm a Computer Science student specializing in AI and Cybersecurity, building in
   <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Canva.svg" alt="Canva" width="48" height="48"/>
 </p>
 
+
 ## 🌐 Socials
-<br></br>
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/arnavkhajuria/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
 <a href="https://instagram.com/arnav.khajuria_1/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
 <picture>
@@ -56,7 +57,7 @@ I'm a Computer Science student specializing in AI and Cybersecurity, building in
 </a>
 <a href="mailto:arnavkhajuria431@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
 </p>
-
+<br></br>
 
 ## 🏆 GitHub Statistics
 
