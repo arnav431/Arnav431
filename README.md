@@ -9,17 +9,6 @@ I'm a passionate Computer Science student specializing in AI and Cybersecurity. 
 - 💡 Active member of ACM student chapter
 - ⚡ Fun fact: I break systems to understand how to secure them better 😄
 
-
-## 💼 What I'm Working On
-
-```python
-current_projects = {
-    "AI & ML": ["AI Chatbots", "ML Models", "Deep Learning Systems"],
-    "Security": ["Cybersecurity Tools", "Penetration Testing", "Secure APIs"],
-    "Development": ["Socket-based Systems", "Web Applications", "Automation Tools"]
-}
-```
-
 ## 🛠️ Tech Stack
 
 <p align="center">
