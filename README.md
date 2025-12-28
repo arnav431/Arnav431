@@ -42,29 +42,53 @@ current_projects = {
 
 ## 🛠️ Tech Stack
 
+### 💻 Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,js,java,r,bash)](https://skillicons.dev)
 
+### 🌐 Web Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,fastapi,flask)](https://skillicons.dev)
 
+### 🤖 Machine Learning & AI
+<p align="left">
+  [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)](https://skillicons.dev)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/NumPy-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/NumPy-Light.svg">
+    <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/NumPy-Dark.svg" alt="NumPy" width="48" height="48"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Pandas-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Pandas-Light.svg">
+    <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Pandas-Dark.svg" alt="Pandas" width="48" height="48"/>
+  </picture>
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn)](https://skillicons.dev)
+### ☁️ Cloud & Deployment
+<p align="left">
+  [![My Skills](https://skillicons.dev/icons?i=gcp,vercel,nginx)](https://skillicons.dev)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Render-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Render-Light.svg">
+    <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Render-Dark.svg" alt="Render" width="48" height="48"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Gunicorn-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Gunicorn-Light.svg">
+    <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Gunicorn-Dark.svg" alt="Gunicorn" width="48" height="48"/>
+  </picture>
+</p>
 
-
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
-
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+### 🎨 Design Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Canva.svg" alt="Canva" width="48" height="48"/>
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="48"/>
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" height="48"/>
+</p>
 
 ---
 
