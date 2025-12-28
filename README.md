@@ -1,4 +1,4 @@
-#<div style="margin-top: 20px;"><img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/greeter.gif" width="40" height="40" /></div> Hi, I'm Arnav Khajuria
+#<div style="margin-top: 5px;"><img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/greeter.gif" width="40" height="40" /></div> Hi, I'm Arnav Khajuria
 
 
 I'm a passionate Computer Science student specializing in AI and Cybersecurity. I love building practical solutions that combine intelligent systems with robust security practices.
