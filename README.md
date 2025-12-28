@@ -1,6 +1,5 @@
 # <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/greeter.gif" width="30" height="30" /> Hey! Nice to see you.
 
----
 
 I'm a Computer Science student specializing in AI and Cybersecurity, building intelligent and secure systems.
 - 🔭 Developing AI-driven security tools & web apps
@@ -10,7 +9,7 @@ I'm a Computer Science student specializing in AI and Cybersecurity, building in
 <br></br>
 
 ## 🛠️ Things I code with
---
+
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=py,c,cpp,js,java,r,bash,html,css,tailwind,fastapi,flask,pytorch,tensorflow" />
@@ -46,7 +45,7 @@ I'm a Computer Science student specializing in AI and Cybersecurity, building in
 
 
 ## 🌐 Find me on
---
+
 <p align="center">
 <a href="https://linkedin.com/in/arnavkhajuria/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
 <a href="https://instagram.com/arnav.khajuria_1/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
@@ -62,16 +61,17 @@ I'm a Computer Science student specializing in AI and Cybersecurity, building in
 <br></br>
 
 ## 🏆 GitHub Statistics
---
+
 <div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Arnav431&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Arnav431&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav431&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 </div>
 
 <br/><br/>
 ## 💬 Let's Connect!
---
+
 I'm always interested in collaborating on innovative projects, especially those involving:
 - 🤖 AI/ML applications
 - 🔒 Cybersecurity solutions
