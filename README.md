@@ -7,24 +7,7 @@ I'm a Computer Science student specializing in AI and Cybersecurity, building in
 - 🤝 Open to collaborations & open-source projects
 - 💡 ACM student chapter member | Fun fact: I break systems to secure them 😄
 
-
-
-<p align="center">
-<a href="https://linkedin.com/in/arnavkhajuria/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-<a href="https://instagram.com/arnav.khajuria_1/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/X-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/X-Light.svg">
-    <a href="https://x.com/ArnavKhajuria_1">
-    <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/X-Dark.svg" alt="X" width="48" height="48"/>
-</picture>
-</a>
-<a href="mailto:arnavkhajuria431@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
-</p>
-
-
 <br/><br/>
-
 
 ## 🛠️ Things I code with
 
@@ -60,10 +43,22 @@ I'm a Computer Science student specializing in AI and Cybersecurity, building in
   </picture>
   <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Canva.svg" alt="Canva" width="48" height="48"/>
 </p>
-
-
-
 <br/><br/>
+
+## 🌐 Socials
+<p align="center">
+<a href="https://linkedin.com/in/arnavkhajuria/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+<a href="https://instagram.com/arnav.khajuria_1/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/X-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/X-Light.svg">
+    <a href="https://x.com/ArnavKhajuria_1">
+    <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/X-Dark.svg" alt="X" width="48" height="48"/>
+</picture>
+</a>
+<a href="mailto:arnavkhajuria431@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
+</p>
+
 
 ## 🏆 GitHub Statistics
 
@@ -84,9 +79,6 @@ I'm always interested in collaborating on innovative projects, especially those 
 - 🚀 Automation and scalability
 
 Feel free to reach out if you want to discuss tech, collaborate on projects, or just chat about breaking and securing systems!
-
-
-
 
 <div align="center">
 
