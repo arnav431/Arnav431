@@ -13,7 +13,7 @@ I'm a passionate Computer Science student specializing in AI and Cybersecurity. 
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,java,r,bash,html,css,tailwind,fastapi,flask,pytorch,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,java,r,bash,html,css,tailwind,flask,pytorch,tensorflow" />
   </a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/NumPy-Dark.svg">
