@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://github.com/Arnav431/Arnav431/blob/main/greeter.gif" width="30" height="30" /> Hi, I'm Arnav Khajuria Hi, I'm Arnav Khajuria
+# <img src="https://github.com/Arnav431/Arnav431/blob/main/greeter.gif" width="30" height="30" /> Hi, I'm Arnav Khajuria
 
 ### B.Tech CSE • Cyber Security Minor
 *Building the future with AI, one secure system at a time*
