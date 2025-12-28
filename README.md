@@ -42,13 +42,9 @@ current_projects = {
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,js,java,r,bash)](https://skillicons.dev)
-
-### 🌐 Web Development
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,fastapi,flask)](https://skillicons.dev)
 
-### 🤖 Machine Learning & AI
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
@@ -65,7 +61,6 @@ current_projects = {
   </picture>
 </p>
 
-### ☁️ Cloud & Deployment
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gcp,vercel,nginx" />
@@ -82,10 +77,8 @@ current_projects = {
   </picture>
 </p>
 
-### 🗄️ Databases
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,firebase)](https://skillicons.dev)
 
-### 🎨 Design Tools
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,blender" />
