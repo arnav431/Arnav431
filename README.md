@@ -2,13 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/greeter.gif" width="45" height="45" /> Hi, I'm Arnav Khajuria
 
-### B.Tech CSE • Cyber Security Minor
-*Building the future with AI, one secure system at a time*
-</div>
-
 ---
-
-## 🚀 About Me
 
 I'm a passionate Computer Science student specializing in AI and Cybersecurity. I love building practical solutions that combine intelligent systems with robust security practices.
 
