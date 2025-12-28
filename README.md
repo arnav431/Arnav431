@@ -9,6 +9,7 @@ I'm a passionate Computer Science student specializing in AI and Cybersecurity. 
 - 💡 Active member of ACM student chapter
 - ⚡ Fun fact: I break systems to understand how to secure them better 😄
 
+
 <p align="center">
 <a href="https://linkedin.com/in/arnavkhajuria/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
 <a href="https://instagram.com/arnav.khajuria_1/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
