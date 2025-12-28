@@ -8,7 +8,7 @@ I'm a Computer Science student specializing in AI and Cybersecurity, building in
 - 💡 ACM student chapter member | Fun fact: I break systems to secure them 😄
 
 ## 🛠️ Things I code with
-
+  
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=py,c,cpp,js,java,r,bash,html,css,tailwind,fastapi,flask,pytorch,tensorflow" />
@@ -44,7 +44,7 @@ I'm a Computer Science student specializing in AI and Cybersecurity, building in
 
 
 ## 🌐 Find me on
-
+  
 <p align="center">
 <a href="https://linkedin.com/in/arnavkhajuria/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
 <a href="https://instagram.com/arnav.khajuria_1/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
@@ -60,7 +60,7 @@ I'm a Computer Science student specializing in AI and Cybersecurity, building in
 
 
 ## 🏆 GitHub Statistics
-
+  
 <div align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Arnav431&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -70,7 +70,7 @@ I'm a Computer Science student specializing in AI and Cybersecurity, building in
 
 
 ## 💬 Let's Connect!
-
+  
 I'm always interested in collaborating on innovative projects, especially those involving:
 - 🤖 AI/ML applications
 - 🔒 Cybersecurity solutions
