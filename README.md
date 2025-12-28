@@ -1,7 +1,8 @@
 # <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/greeter.gif" width="30" height="30" /> Hey! Nice to see you.
+---
 
 
-I'm a Computer Science student specializing in AI and Cybersecurity, building intelligent and secure systems.
+I'm a Computer Science student specializing in Cybersecurity, building intelligent and secure systems.
 - 🔭 Developing AI-driven security tools & web apps
 - 🌱 Exploring Machine Learning, Quantum Computing & Secure Systems
 - 🤝 Open to collaborations & open-source projects
