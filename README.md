@@ -14,34 +14,32 @@ I'm a Computer Science student specializing in Cybersecurity, building intellige
     <img src="https://skillicons.dev/icons?i=py,c,cpp,js,java,r,bash,html,css,tailwind,fastapi,flask,pytorch,tensorflow" />
   </a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/NumPy-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/NumPy-Light.svg">
-    <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/NumPy-Dark.svg" alt="NumPy" width="48" height="48"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/main/NumPy-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/main/NumPy-Light.svg">
+    <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/NumPy-Dark.svg" alt="NumPy" width="48" height="48"/>
   </picture>
 </p>
-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Pandas-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Pandas-Light.svg">
-    <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Pandas-Dark.svg" alt="Pandas" width="48" height="48"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/main/Pandas-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/main/Pandas-Light.svg">
+    <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/Pandas-Dark.svg" alt="Pandas" width="48" height="48"/>
   </picture>
   <a>
     <img src="https://skillicons.dev/icons?i=gcp,vercel,nginx,mongodb,mysql,firebase,figma,blender" />
   </a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Render-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Render-Light.svg">
-    <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Render-Dark.svg" alt="Render" width="48" height="48"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/main/Render-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/main/Render-Light.svg">
+    <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/Render-Dark.svg" alt="Render" width="48" height="48"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Gunicorn-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Gunicorn-Light.svg">
-    <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Gunicorn-Dark.svg" alt="Gunicorn" width="48" height="48"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/main/Gunicorn-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/main/Gunicorn-Light.svg">
+    <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/Gunicorn-Dark.svg" alt="Gunicorn" width="48" height="48"/>
   </picture>
-  <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/Canva.svg" alt="Canva" width="48" height="48"/>
+  <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/Canva.svg" alt="Canva" width="48" height="48"/>
 </p>
-
 
 ## 🌐 Find me on
   
