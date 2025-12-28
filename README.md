@@ -23,7 +23,7 @@ I'm a passionate Computer Science student specializing in AI and Cybersecurity. 
 <a href="mailto:arnavkhajuria431@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
 </p>
 
-## 🛠️ Tech Stack
+## 🛠️ Things I code with
 
 <p align="center">
   <a>
@@ -70,8 +70,6 @@ I'm a passionate Computer Science student specializing in AI and Cybersecurity. 
 
 
 ## 💬 Let's Connect!
-
-
 
 I'm always interested in collaborating on innovative projects, especially those involving:
 - 🤖 AI/ML applications
