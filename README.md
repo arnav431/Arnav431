@@ -1,4 +1,4 @@
-### 😎 Hi, I'm Arnav Khajuria
+# 😎 Hi, I'm Arnav Khajuria
 ---
 
 I'm a passionate Computer Science student specializing in AI and Cybersecurity. I love building practical solutions that combine intelligent systems with robust security practices.
