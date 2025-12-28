@@ -5,10 +5,15 @@
 ### B.Tech CSE • Cyber Security Minor
 *Building the future with AI, one secure system at a time*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavkhajuria/) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arnav.khajuria_1/) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ArnavKhajuria_1) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arnavkhajuria431@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/arnavkhajuria/) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/arnav.khajuria_1/) 
+[![X](https://skillicons.dev/icons?i=)](https://x.com/ArnavKhajuria_1) 
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/X-Dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/X-Light.svg">
+    <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/X-Dark.svg" alt="Pandas" width="48" height="48"/>
+</picture>
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:arnavkhajuria431@gmail.com)
 
 ![](https://komarev.com/ghpvc/?username=Arnav431)
 
