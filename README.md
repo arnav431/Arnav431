@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/greeter.gif" width="45" height="45" /> Hi, I'm Arnav Khajuria
 
