@@ -4,19 +4,6 @@
 
 ### B.Tech CSE • Cyber Security Minor
 *Building the future with AI, one secure system at a time*
-
-<p align="center">
-<a href="https://linkedin.com/in/arnavkhajuria/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-<a href="https://instagram.com/arnav.khajuria_1/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/X-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/X-Light.svg">
-    <a href="https://x.com/ArnavKhajuria_1">
-    <img src="https://raw.githubusercontent.com/Arnav431/abra-ka-dabra/main/X-Dark.svg" alt="X" width="48" height="48"/>
-</picture>
-</a>
-<a href="mailto:arnavkhajuria431@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
-</p>
 </div>
 
 ---
