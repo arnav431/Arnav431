@@ -7,7 +7,7 @@ I'm a Computer Science student specializing in Cybersecurity, building intellige
 - 🤝 Open to collaborations & open-source projects
 - 💡 ACM student chapter member |
 
-```Fun fact: I break systems to secure them 😄```
+````Fun fact: I break systems to secure them 😄````
 
 ## 🛠️ Things I work with
   
