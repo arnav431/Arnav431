@@ -11,34 +11,13 @@ I'm a Computer Science student specializing in Cybersecurity, building intellige
   
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,java,r,bash,html,css,tailwind,fastapi,flask,pytorch,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,java,r,bash,html,css,tailwind,fastapi,flask,pytorch,tensorflow,numpy" />
   </a>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/main/NumPy-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/main/NumPy-Light.svg">
-    <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/NumPy-Dark.svg" alt="NumPy" width="48" height="48"/>
-  </picture>
 </p>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/main/Pandas-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/main/Pandas-Light.svg">
-    <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/Pandas-Dark.svg" alt="Pandas" width="48" height="48"/>
-  </picture>
   <a>
-    <img src="https://skillicons.dev/icons?i=gcp,vercel,nginx,mongodb,mysql,firebase,figma,blender" />
+    <img src="https://skillicons.dev/icons?i=pandas,gcp,vercel,nginx,mongodb,mysql,firebase,figma,blender,render,gunicorn,canva" />
   </a>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/main/Render-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/main/Render-Light.svg">
-    <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/Render-Dark.svg" alt="Render" width="48" height="48"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/main/Gunicorn-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/main/Gunicorn-Light.svg">
-    <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/Gunicorn-Dark.svg" alt="Gunicorn" width="48" height="48"/>
-  </picture>
-  <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/Canva.svg" alt="Canva" width="48" height="48"/>
 </p>
 
 ## 🌐 Find me on
