@@ -50,6 +50,10 @@ I'm always interested in collaborating on innovative projects, especially those 
 Feel free to reach out if you want to discuss tech, collaborate on projects, or just chat about breaking and securing systems!
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&text=First%2C%20learn%20the%20rules.%20Then%2C%20learn%20how%20to%20break%20them%20securely.&author=Made%20with%20%5E%F0%9F%92%96%20and%20lots%20of%20%F0%9F%8C%95" alt="Quote Banner" />
+  <img 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%2C%20learn%20the%20rules.%20Then%2C%20learn%20how%20to%20break%20them%20securely.&author=Made%20with%20❤️%20and%20lots%20of%20☕" 
+    alt="Quote"
+  />
 </p>
+
 
