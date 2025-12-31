@@ -51,7 +51,7 @@ Feel free to reach out if you want to discuss tech, collaborate on projects, or 
 
 <div align="center">
 
-### *"First, learn the rules. Then, learn how to break them securely."*
+> *“First, learn the rules. Then, learn how to break them securely.”*
 
 **Made with ❤️ and lots of ☕**
 
