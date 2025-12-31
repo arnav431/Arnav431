@@ -49,10 +49,6 @@ I'm always interested in collaborating on innovative projects, especially those 
 
 Feel free to reach out if you want to discuss tech, collaborate on projects, or just chat about breaking and securing systems!
 
-<div align="center">
-
-> *“First, learn the rules. Then, learn how to break them securely.”*
-
-**Made with ❤️ and lots of ☕**
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f172a,100:020617&height=140&section=header&text=First,%20learn%20the%20rules.%20Then,%20learn%20how%20to%20break%20them%20securely.&fontSize=20&fontColor=e5e7eb&desc=Made%20with%20❤️%20and%20lots%20of%20☕&descAlignY=75&descSize=14" />
+</p>
