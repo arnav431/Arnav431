@@ -23,19 +23,11 @@ I'm a Computer Science student specializing in Cybersecurity, building intellige
 ## 🌐 Find me on
   
 <p align="center">
-<a href="https://linkedin.com/in/arnavkhajuria/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-<a href="https://instagram.com/arnav.khajuria_1/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/main/X-Dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/main/X-Light.svg">
-    <a href="https://x.com/ArnavKhajuria_1">
-      <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/X-Dark.svg" alt="X" width="48" height="48" />
-    </a>
-</picture>
-</a>
-<a href="mailto:arnavkhajuria431@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email"/></a>
+<a href="https://linkedin.com/in/arnavkhajuria/"><img src="https://skills.syvixor.com/api/icons?i=linkedin" alt="LinkedIn"/></a>
+<a href="https://instagram.com/arnav.khajuria_1/"><img src="https://skills.syvixor.com/api/icons?i=instagram" alt="Instagram"/></a>
+<a href="https://x.com/ArnavKhajuria_1"><img src="https://skills.syvixor.com/api/icons?i=x" alt="X"/></a>
+<a href="mailto:arnavkhajuria431@gmail.com"><img src="https://skills.syvixor.com/api/icons?i=gmail" alt="Email"/></a>
 </p>
-
 
 ## 🏆 GitHub Statistics
   
