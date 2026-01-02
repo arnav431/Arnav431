@@ -32,7 +32,9 @@ I'm a Computer Science student specializing in Cybersecurity, building intellige
 ## 🏆 GitHub Statistics
   
 <div align="center">
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arnav431&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+  [!][GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arnav431&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div>
 
 ## 💬 Let's Connect!
