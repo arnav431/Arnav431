@@ -30,14 +30,11 @@ I'm a Computer Science student specializing in Cybersecurity, building intellige
 </p>
 
 ## 🏆 GitHub Statistics
-  
-<div align="center">
-  
-  [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arnav431&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div>
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arnav431&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="left">
+
+
 ## 💬 Let's Connect!
   
 I'm always interested in collaborating on innovative projects, especially those involving:
@@ -47,7 +44,7 @@ I'm always interested in collaborating on innovative projects, especially those 
 - 🚀 Automation and scalability
 
 Feel free to reach out if you want to discuss tech, collaborate on projects, or just chat about breaking and securing systems!
-<div>
+
 <p align="center">
   <img 
     src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=First%2C%20learn%20the%20rules.%20Then%2C%20learn%20how%20to%20break%20them%20securely.&author=Made%20with%20❤️%20and%20lots%20of%20☕" 
