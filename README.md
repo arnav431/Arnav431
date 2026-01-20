@@ -36,7 +36,6 @@ I'm a Computer Science student specializing in Cybersecurity, building intellige
     <td align="center">
       <img src="https://nirzak-streak-stats.vercel.app/?user=Arnav431&theme=dark&hide_border=false" />
     </td>
-    <td width="30"></td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav431&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
     </td>
