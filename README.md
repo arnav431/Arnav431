@@ -32,7 +32,7 @@ I'm a Computer Science student specializing in Cybersecurity, building intellige
 ## 🏆 GitHub Statistics
 
 <div align="center">
-![](https://nirzak-streak-stats.vercel.app/?user=Arnav431&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Arnav431&theme=dark&hide_border=false)</br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav431&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
