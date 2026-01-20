@@ -47,6 +47,7 @@ I'm a Computer Science student specializing in Cybersecurity, building intellige
 
 
 
+
 ## 💬 Let's Connect!
   
 I'm always interested in collaborating on innovative projects, especially those involving:
