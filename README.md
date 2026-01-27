@@ -16,7 +16,7 @@ I'm a Computer Science student specializing in Cybersecurity, building intellige
 </p>
 <p align="center">
   <a>
-    <img src="https://skills.syvixor.com/api/icons?i=numpy,pandas,gcp,render,vercel,nginx,mongodb,mysql,firebase,figma,blender,gunicorn,git,canva&size=64" />
+    <img src="https://skills.syvixor.com/api/icons?i=numpy,pandas,gcp,linux,render,vercel,nginx,mongodb,mysql,firebase,figma,blender,gunicorn,git,canva&size=64" />
   </a>
 </p>
 
