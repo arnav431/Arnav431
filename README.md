@@ -11,7 +11,7 @@ I'm a Computer Science student specializing in Cybersecurity, building intellige
   
 <p align="center">
   <a>
-    <img src="https://skills.syvixor.com/api/icons?i=python,c,cpp,java,r,html,css,js,tailwind,linux,fastapi,flask,pytorch,tensorflow&size=64" />
+    <img src="https://skills.syvixor.com/api/icons?i=python,c,cpp,java,r,html,css,js,tailwind,linux,visualstudiocode,fastapi,flask,pytorch,tensorflow&size=64" />
   </a>
 </p>
 <p align="center">
