@@ -30,16 +30,13 @@ I'm a Computer Science student specializing in Cybersecurity, building intellige
 </p>
 
 ## 🏆 GitHub Statistics
+
 <table align="center">
-  <tr align="center">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" 
-              srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/output/github-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" 
-              srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/output/github-snake.svg" />
-      <img alt="github contribution snake animation" 
-           src="https://raw.githubusercontent.com/Arnav431/Arnav431/output/github-snake.svg" />
-    </picture>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/output/github-snake-dark.svg#gh-dark-mode-only" />
+      <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/output/github-snake.svg#gh-light-mode-only" />
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -50,7 +47,6 @@ I'm a Computer Science student specializing in Cybersecurity, building intellige
     </td>
   </tr>
 </table>
-
 
 
 
