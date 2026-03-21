@@ -33,18 +33,14 @@ I'm a Computer Science student specializing in Cybersecurity, building intellige
 
 <table align="center">
   <tr>
-    <!-- Streak Stats (theme-aware ✅) -->
     <td align="center">
       <img src="https://nirzak-streak-stats.vercel.app/?user=Arnav431&theme=dark&hide_border=false#gh-dark-mode-only" />
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Arnav431&theme=default&hide_border=false#gh-light-mode-only" />
     </td>
-    <!-- Top Languages (single theme to avoid bug ❌➡️✅) -->
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav431&theme=tokyonight&hide_border=false&layout=compact" />
     </td>
   </tr>
   <tr>
-    <!-- Snake Animation (theme-aware ✅) -->
     <td align="center" colspan="2">
       <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/output/github-snake-dark.svg#gh-dark-mode-only" />
       <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/output/github-snake.svg#gh-light-mode-only" />
