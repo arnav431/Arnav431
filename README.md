@@ -30,13 +30,18 @@ I'm a Computer Science student specializing in Cybersecurity, building intellige
 </p>
 
 ## 🏆 GitHub Statistics
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/output/github-snake-dark.svg" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/output/github-snake-dark.svg" />
+    
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/output/github-snake.svg" />
+    
+    <img alt="github contribution snake animation" 
+         src="https://raw.githubusercontent.com/Arnav431/Arnav431/output/github-snake.svg" />
+  </picture>
+</div>
 
 
 
