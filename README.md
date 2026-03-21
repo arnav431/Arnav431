@@ -33,11 +33,10 @@ I'm a Computer Science student specializing in Cybersecurity, building intellige
 <table align="center">
   <tr>
     <td align="center">
-      ![snake gif](https://github.com/Arnav431/Arnav431/blob/output/github-snake-dark.svg)
+      <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/output/github-snake-dark.svg" />
     </td>
   </tr>
 </table>
-
 
 
 
