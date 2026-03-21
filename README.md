@@ -30,19 +30,17 @@ I'm a Computer Science student specializing in Cybersecurity, building intellige
 </p>
 
 ## 🏆 GitHub Statistics
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/output/github-snake.svg" />
-    <img alt="github contribution snake animation" 
-         src="https://raw.githubusercontent.com/Arnav431/Arnav431/output/github-snake.svg" />
-  </picture>
-</div>
-
-
-<div align="center">
+<table align="center">
+  <tr align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+              srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" 
+              srcset="https://raw.githubusercontent.com/Arnav431/Arnav431/output/github-snake.svg" />
+      <img alt="github contribution snake animation" 
+           src="https://raw.githubusercontent.com/Arnav431/Arnav431/output/github-snake.svg" />
+    </picture>
+  </tr>
   <tr>
     <td align="center">
       <img src="https://nirzak-streak-stats.vercel.app/?user=Arnav431&theme=dark&hide_border=false" />
@@ -51,7 +49,7 @@ I'm a Computer Science student specializing in Cybersecurity, building intellige
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav431&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
     </td>
   </tr>
-</div>
+</table>
 
 
 
