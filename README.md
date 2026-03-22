@@ -1,4 +1,4 @@
-<img src="[https://raw.githubusercontent.com/Arnav431/Arnav431/main/greeter.gif](https://raw.githubusercontent.com/Arnav431/Arnav431/refs/heads/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"/>
+<img src="[https://raw.githubusercontent.com/Arnav431/Arnav431/main/greeter.gif](https://raw.githubusercontent.com/Arnav431/Arnav431/refs/heads/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png]"/>
 
 # <img src="https://raw.githubusercontent.com/Arnav431/Arnav431/main/greeter.gif" width="30" height="30" /> Hey! Nice to see you.
 
