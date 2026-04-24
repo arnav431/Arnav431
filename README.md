@@ -32,11 +32,10 @@ I'm a Computer Science student specializing in Cybersecurity, building intellige
 </p>
 
 ## 🏆 GitHub Statistics
-
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Arnav431&theme=dark&hide_border=false#gh-dark-mode-only" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Arnav431&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
     </td>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arnav431&theme=tokyonight&hide_border=false&layout=compact" />
@@ -49,7 +48,6 @@ I'm a Computer Science student specializing in Cybersecurity, building intellige
     </td>
   </tr>
 </table>
-
 
 
 
